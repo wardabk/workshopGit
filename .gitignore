@@ -1,0 +1,6 @@
+# Fichiers à ignorer
+node_modules/
+.env
+.*.log
+*.log
+.dist/
