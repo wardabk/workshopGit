@@ -12,3 +12,5 @@ function handleError(error) {
     console.error('Error:', error.message);
 }
 module.exports.handleError = handleError;
+
+// Ajout de commentaires
